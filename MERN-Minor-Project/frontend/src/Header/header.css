@@ -1,0 +1,62 @@
+.nav{
+    margin-top: 10px;
+   padding:0,10px;
+    font-weight: bold;
+    color: #000000; 
+    font-size:small
+}
+.header{
+    position:-webkit-sticky;
+    background-color: #53A3C4;
+    color:white;
+    font-weight:lighter
+}
+.logo1{
+    color:white;
+    top:40%
+   
+}
+.search{
+    top:10%;
+    width: 800px;
+    margin-left: 60px;
+}
+
+::-webkit-input-placeholder {
+    font-size:15px;
+    font-weight:bold; 
+ }
+
+ .search-icon{
+     color:black;
+ }
+
+ .icons{
+     margin:5px;
+     margin-top: 30px;
+     font-size:x-large;
+     color:white;
+ }
+
+ /* .menu{
+     margin-left: 3px
+ } */
+
+ #dropletter{
+    color:black;
+    font-weight:bold
+    
+ }
+
+ #start{
+     font-weight:lighter;
+     color:blue;
+ }
+
+ #start:hover{
+     text-decoration: underline;
+ }
+
+ .navbar{
+     position:sticky;
+ }
